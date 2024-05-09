@@ -17,7 +17,7 @@ heart_disease_model = pickle.load(open('C:/Users/HP/Desktop/multiple disease pre
 
 parkinsons_model = pickle.load(open('C:/Users/HP/Desktop/multiple disease prediction/saved models/parkinsons_model.sav', 'rb'))
 
-Covid_19_model = pickle.load(open('C:/Users/HP/Desktop/multiple disease prediction/saved models/Covid_19_model.sav', 'rb'))
+Covid_19_model = pickle.load(open('saved models/Covid_19_model.sav', 'rb'))
 
 
 
