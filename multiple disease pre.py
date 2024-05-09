@@ -17,12 +17,10 @@ heart_disease_model = pickle.load(open('multiple disease prediction/saved models
 
 parkinsons_model = pickle.load(open('multiple disease prediction/saved models/parkinsons_model.sav', 'rb'))
 
-Covid_19_model = pickle.load(open('Multiple_disease_Prediction_Using_ML_And_Streamlit
-/multiple disease prediction/saved models/Covid_19_model.sav', 'rb'))
+Covid_19_model = pickle.load(open('multiple disease prediction/saved models/Covid_19_model.sav', 'rb'))
 
 
 
-# cancer_model = pickle.load(open('C:/Users/HP/Desktop/multiple disease prediction/saved models/model.pkl', 'rb'))
 
 # sidebar for navigation
 with st.sidebar:
